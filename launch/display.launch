@@ -3,7 +3,7 @@
   <!--<arg name="model" default="$(find human_model)/urdf/human.urdf"/>-->
   <arg name="model" default="$(find human_model)/urdf/puppet.urdf"/>
 
-  <!--<arg name="rvizconfig" default="$(find human_model)/rviz/urdf.rviz" />-->
+  <!--<arg name="rvizconfig" default="$(find human_model)/rviz/human.rviz" />-->
   <arg name="rvizconfig" default="$(find human_model)/rviz/puppet.rviz" />
   
   <arg name="gui" default="true" />
